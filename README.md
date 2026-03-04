@@ -1,7 +1,6 @@
 # Personal Portfolio Website
 
-A professional portfolio showcasing my educational achievements 
-and problem-solving skills.
+Welcome to my personal portfolio website
 
 ## About Me
 
